@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/epaRoboFriends/static/css/main.6bc1731a.chunk.css",
+    "main.js": "/epaRoboFriends/static/js/main.f1dee615.chunk.js",
+    "main.js.map": "/epaRoboFriends/static/js/main.f1dee615.chunk.js.map",
+    "runtime-main.js": "/epaRoboFriends/static/js/runtime-main.a9f1c832.js",
+    "runtime-main.js.map": "/epaRoboFriends/static/js/runtime-main.a9f1c832.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/epaRoboFriends/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.e1b685fc.chunk.js": "/epaRoboFriends/static/js/2.e1b685fc.chunk.js",
+    "static/js/2.e1b685fc.chunk.js.map": "/epaRoboFriends/static/js/2.e1b685fc.chunk.js.map",
+    "index.html": "/epaRoboFriends/index.html",
+    "precache-manifest.6c83f23abaf4c59dab39241ec3fad67b.js": "/epaRoboFriends/precache-manifest.6c83f23abaf4c59dab39241ec3fad67b.js",
+    "service-worker.js": "/epaRoboFriends/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/epaRoboFriends/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.6bc1731a.chunk.css.map": "/epaRoboFriends/static/css/main.6bc1731a.chunk.css.map",
+    "static/js/2.e1b685fc.chunk.js.LICENSE.txt": "/epaRoboFriends/static/js/2.e1b685fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/epaRoboFriends/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f1c832.js",
+    "static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.e1b685fc.chunk.js",
+    "static/css/main.6bc1731a.chunk.css",
+    "static/js/main.f1dee615.chunk.js"
+  ]
+}
